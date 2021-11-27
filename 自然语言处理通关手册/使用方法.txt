@@ -1,0 +1,1 @@
+pip install torch torchvision torchaudio -i https://pypi.mirrors.ustc.edu.cn/simple/ 
